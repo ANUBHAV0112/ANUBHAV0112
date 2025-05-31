@@ -44,7 +44,7 @@
 
 - 🔗 [Weather Chatbot with Rasa, Flask & AWS EC2](https://github.com/ANUBHAV0112/weather_bot)
 - 🌍 [Personal Portfolio Website (Django + EC2)](https://github.com/ANUBHAV0112/Portfolio)
-- 🍽️ [Restaurant Dynamic Website (Python + Django)](https://github.com/ANUBHAV0112/Restaurant-Website.git)
+- 🍽️ [Restaurant Dynamic Website (Python + Django)](https://github.com/ANUBHAV0112/-Restaurant-Website)
 - 💎 [Diamond Price Prediction (ML Project)](https://github.com/ANUBHAV0112/Diamond-Price-Prediction.git)
 - 🛍️ [EduCommerce (React.js)](https://educommerce.netlify.app/)
 
